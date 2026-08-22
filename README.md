@@ -16,6 +16,7 @@ The final model was evaluated on a held-out Jul–Dec 2025 test set:
 ## Files
 
 - `submission_notebook.ipynb` — analysis and report
+- `Case_Presentation.pptx` — presentation
 - `requirements.txt` — Python dependencies
 
 Raw and processed datasets are not included due to their size.
